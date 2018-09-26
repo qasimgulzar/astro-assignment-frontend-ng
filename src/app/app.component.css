@@ -1,0 +1,9 @@
+.page-header{
+  height: 70px;
+}
+.page-header div{
+  height: 100%;
+}
+.col-custom{
+  padding: 10px;
+}
