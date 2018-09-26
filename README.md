@@ -33,3 +33,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## To Change HOST/PORT 
 
 GOTO `src/app/app.component.ts` and replace host with your HOST/PORT accordingly.
+
+![Screenshot](screenshot.png)
